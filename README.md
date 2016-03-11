@@ -1,2 +1,3 @@
 # firstrep
-my first github rep
+this is a trial 
+dont take it too seriously 
